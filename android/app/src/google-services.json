@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "166965933671",
+    "project_id": "sneekcart",
+    "storage_bucket": "sneekcart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166965933671:android:7214b0f34af0e3dc6986c2",
+        "android_client_info": {
+          "package_name": "com.example.shoe_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166965933671-1insu0srp1jts36mcesj9a7d4h0nekmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0yyGzssEfqIDPhDP-Ef5xQN15vvLK7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166965933671-1insu0srp1jts36mcesj9a7d4h0nekmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166965933671:android:528cde361cb8a7c86986c2",
+        "android_client_info": {
+          "package_name": "com.example.sneek_cart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166965933671-1insu0srp1jts36mcesj9a7d4h0nekmh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDk0yyGzssEfqIDPhDP-Ef5xQN15vvLK7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166965933671-1insu0srp1jts36mcesj9a7d4h0nekmh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
