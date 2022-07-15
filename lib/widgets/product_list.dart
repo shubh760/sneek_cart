@@ -12,8 +12,11 @@ class Productlist extends StatelessWidget {
       padding: const EdgeInsets.all(10),
       itemCount: Product.products.length,
       itemBuilder: (BuildContext context, int index) {
-        return SingleProductWidget(
-          index: index,
+        return Padding(
+          padding: const EdgeInsets.only(left:8.0, right: 8.0),
+          child: SingleProductWidget(
+            index: index,
+          ),
         );
       },
       gridDelegate:

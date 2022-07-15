@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
 import 'package:modal_bottom_sheet/modal_bottom_sheet.dart';
 import 'package:shoe_cart/models/product_model.dart';
 import 'package:shoe_cart/widgets/product_list.dart';

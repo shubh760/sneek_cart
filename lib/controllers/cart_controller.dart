@@ -29,5 +29,5 @@ class CartController extends GetxController {
   get total => _products.entries
       .map((product) => product.key.price * product.value)
       .toList()
-      .reduce((value, element) => value + element);
+      .fold<num>(0, (previousValue, element) => previousValue+ element);
 }

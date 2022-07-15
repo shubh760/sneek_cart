@@ -52,14 +52,14 @@ class Product {
         id: "id",
         image:
             "https://firebasestorage.googleapis.com/v0/b/sneekcart.appspot.com/o/2.jpeg?alt=media&token=882a0f48-a774-42ec-9e51-a27adea44735",
-        price: 32),
+        price: 13),
         Product(
         name: "adidas runners",
         brande: "Adidas",
         id: "id",
         image:
             "https://firebasestorage.googleapis.com/v0/b/sneekcart.appspot.com/o/5.jpeg?alt=media&token=1265e807-72b7-4890-9a6b-3cb1cbfe375d",
-        price: 32),
+        price: 23),
         Product(
         name: "black runner",
         brande: "Adidad",
